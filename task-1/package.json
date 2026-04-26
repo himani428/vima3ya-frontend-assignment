@@ -1,0 +1,20 @@
+{
+  "name": "task-1-form-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite"
+  },
+  "dependencies": {
+    "formik": "^2.4.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
